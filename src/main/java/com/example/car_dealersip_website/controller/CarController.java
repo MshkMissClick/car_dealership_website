@@ -1,4 +1,4 @@
-package com.example.car_dealersip_website;
+package com.example.car_dealersip_website.controller;
 
 import org.springframework.web.bind.annotation.*;
 
