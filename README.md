@@ -14,7 +14,7 @@
 
 ## 🛠 Технологии
 - **Back-end:** Spring Boot.
-- **Front-end:** HTML, CSS, JavaScript.
+- **Front-end:** HTML, CSS.
 - **База данных:** MySQL.
 - **Сборка:** Gradle.
 - **Среда разработки:** IntelliJ IDEA.
