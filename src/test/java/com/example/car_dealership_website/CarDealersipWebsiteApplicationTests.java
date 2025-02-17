@@ -1,4 +1,4 @@
-package com.example.car_dealersip_website;
+package com.example.car_dealership_website;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

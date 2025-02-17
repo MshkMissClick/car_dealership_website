@@ -1,6 +1,6 @@
-package com.example.car_dealersip_website.repository;
+package com.example.car_dealership_website.repository;
 
-import com.example.car_dealersip_website.model.Car;
+import com.example.car_dealership_website.model.Car;
 import org.springframework.stereotype.Repository;
 
 import java.util.ArrayList;

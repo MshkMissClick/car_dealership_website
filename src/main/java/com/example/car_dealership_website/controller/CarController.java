@@ -1,7 +1,7 @@
-package com.example.car_dealersip_website.controller;
+package com.example.car_dealership_website.controller;
 
-import com.example.car_dealersip_website.model.Car;
-import com.example.car_dealersip_website.service.CarService;
+import com.example.car_dealership_website.model.Car;
+import com.example.car_dealership_website.service.CarService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,4 +1,4 @@
-package com.example.car_dealersip_website;
+package com.example.car_dealership_website;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

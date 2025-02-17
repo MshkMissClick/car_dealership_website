@@ -1,4 +1,4 @@
-package com.example.car_dealersip_website.model;
+package com.example.car_dealership_website.model;
 
 public class Car {
     private int id;

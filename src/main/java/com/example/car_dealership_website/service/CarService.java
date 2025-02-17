@@ -1,7 +1,7 @@
-package com.example.car_dealersip_website.service;
+package com.example.car_dealership_website.service;
 
-import com.example.car_dealersip_website.model.Car;
-import com.example.car_dealersip_website.repository.CarRepository;
+import com.example.car_dealership_website.model.Car;
+import com.example.car_dealership_website.repository.CarRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
