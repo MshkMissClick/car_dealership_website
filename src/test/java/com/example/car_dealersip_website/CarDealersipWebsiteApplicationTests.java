@@ -8,6 +8,7 @@ class CarDealersipWebsiteApplicationTests {
 
 	@Test
 	void contextLoads() {
+		//nothing
 	}
 
 }
