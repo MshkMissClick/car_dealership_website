@@ -24,10 +24,9 @@ public class CarController {
         return carService.getCarsByFilters(brand, color);
     }
 
-    // 2. GET /cars/{id} (Path Parameter)
     @GetMapping("/{id}")
     public ResponseEntity<Car> getCarById(@PathVariable int id) {
-        return carService.getCarById(id)
+    return carService.getCarById(id)
                 .map(ResponseEntity::ok)
                 .orElse(ResponseEntity.notFound().build());
     }
